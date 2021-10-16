@@ -16,3 +16,5 @@ Over time, the number of unhappy agents decreases. But the neighborhood becomes 
 
 *In the case where each agent wants at least 30% same-color neighbors, the agents end up with (on average) 70% same-color neighbors. So relatively small individual preferences can lead to significant overall segregation.*
 
+Interviews: "The World on a Screen" (March 29, 2002) Jonathan Rauch talks about what the study of artificial societies has to tell us about the real world. https://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/
+
