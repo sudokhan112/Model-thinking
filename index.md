@@ -24,4 +24,4 @@ Over time, the number of unhappy agents decreases. But the neighborhood becomes 
   <img width="400" height="300" src="https://github.com/sudokhan112/Model-thinking/blob/main/images/Screenshot%20from%202021-10-16%2017-17-04.png">
 </p>
 
-It's a threshold based model. Each person has eight neighbors. If 3 of them are same as his (in this case Red) the person doesn't move. But if it goes below that (2/8 or 1/8) then the person moves. The result shows even if people are tolerent (like happy to live with 30 - 40 % same type people) it creates 70-80 % segregation. It conludes tp **Micromotives are Not Equal to Macro-behavior**.
+It's a threshold based model. Each person has eight neighbors. If 3 of them are same as his (in this case Red) the person doesn't move. But if it goes below that (2/8 or 1/8) then the person moves. The result shows even if people are tolerent (like happy to live with 30 - 40 % same type people) it creates 70-80 % segregation. It conludes to **Micromotives are Not Equal to Macro-behavior**.
