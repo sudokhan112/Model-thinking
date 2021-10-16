@@ -3,3 +3,16 @@ We live in a complex world with diverse people, firms, and governments whose beh
 
 ## 1. Why Model?
 - Intelligent Citizens of the World
+- Thinking More Clearly
+- Using and Understanding Data
+
+**Netlogo** (https://ccl.northwestern.edu/netlogo/) multi-agent programmable modeling environment.
+
+**Schelling's Segregation Model**(https://ccl.northwestern.edu/netlogo/models/Segregation): This project models the behavior of two types of agents in a neighborhood. The orange agents and blue agents get along with one another. But each agent wants to make sure that it lives near some of "its own." That is, each orange agent wants to live near at least some orange agents, and each blue agent wants to live near at least some blue agents. The simulation shows how these individual preferences ripple through the neighborhood, leading to large-scale patterns. 
+
+The orange and blue agents are randomly distributed throughout the neighborhood. But many agents are "unhappy" since they don't have enough same-color neighbors. The unhappy agents move to new locations in the vicinity. But in the new locations, they might tip the balance of the local population, prompting other agents to leave. If a few agents move into an area, the local blue agents might leave. But when the blue agents move to a new area, they might prompt orange agents to leave that area.
+
+Over time, the number of unhappy agents decreases. But the neighborhood becomes more segregated, with clusters of orange agents and clusters of blue agents.
+
+*In the case where each agent wants at least 30% same-color neighbors, the agents end up with (on average) 70% same-color neighbors. So relatively small individual preferences can lead to significant overall segregation.*
+
