@@ -59,3 +59,5 @@ More Models to understand peer effects:
 - [**Standing Ovation Model**](https://lewiscoleblog.com/standing-ovation)
 
 ###### ~~~~~~~~~~~~~~~~~~~~~~~~~~ Week 1 Complete ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## 2. Aggregation
