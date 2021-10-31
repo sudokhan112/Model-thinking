@@ -21,3 +21,20 @@ Over time, the number of unhappy agents decreases. But the neighborhood becomes 
 [Interviews: "The World on a Screen" (March 29, 2002) Jonathan Rauch talks about what the study of artificial societies has to tell us about the real world.](https://www.theatlantic.com/magazine/archive/2002/04/seeing-around-corners/302471/)
 
 It's a threshold based model. Each person has eight neighbors. If 3 of them are same as his (in this case Red) the person doesn't move. But if it goes below that (2/8 or 1/8) then the person moves. The result shows even if people are tolerent (like happy to live with 30 - 40 % same type people) it creates 70-80 % segregation. It conludes to **Micromotives are Not Equal to Macro-behavior**.
+
+[**Measurement of segregation**] = Sum(number of blocks * (number of specific type of people in the block/total number of that specific people in that segment)/2
+
+<img src="https://github.com/sudokhan112/Model-thinking/blob/main/image/img_1.png" width ="300" height="300">
+
+Number of people each block = 10
+
+Total Blue people = 150
+
+Total Yellow People = 90
+
+Green People = 50% mix of Blue and Green
+
+Measurement of segregation = 12*(10/150) + 6*(10/90) + 6*(5/150+5/90) /2 = 72/90 = 80% segregation
+
+*divide by 2 helps to scale it from 0-1*
+
