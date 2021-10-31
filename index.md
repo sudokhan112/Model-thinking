@@ -55,3 +55,7 @@ This shows if only 1 person has a threshold of 0, that person can change the min
 - lower threshold
 - more variation in threshold.
 
+More Models to understand peer effects:
+- [**Standing Ovation Model**](https://lewiscoleblog.com/standing-ovation)
+
+###### ~~~~~~~~~~~~~~~~~~~~~~~~~~ Week 1 Complete ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
