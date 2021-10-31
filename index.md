@@ -39,6 +39,8 @@ Measurement of segregation = 12*(10/150) + 6*(10/90) + 6*(5/150+5/90) /2 = 72/90
 
 *divide by 2 helps to scale it from 0-1*
 
+
+
 [**Peer Effect (Granovettor's Model)**]: It's a model to explain why a small number of people can change the mind/perception of a large number of people. The psudo model:
 ```
 - N number of people
