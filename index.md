@@ -24,7 +24,9 @@ It's a threshold based model. Each person has eight neighbors. If 3 of them are 
 
 [**Measurement of segregation**] = Sum(number of blocks * (number of specific type of people in the block/total number of that specific people in that segment)/2
 
-<img src="https://github.com/sudokhan112/Model-thinking/blob/main/image/img_1.png" width ="300" height="300">
+
+![image](https://user-images.githubusercontent.com/77024625/139592635-7bd2588b-79e5-4ea2-bbaf-f60d6a7df88e.png)
+
 
 Number of people each block = 10
 
