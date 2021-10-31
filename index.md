@@ -39,3 +39,16 @@ Measurement of segregation = 12*(10/150) + 6*(10/90) + 6*(5/150+5/90) /2 = 72/90
 
 *divide by 2 helps to scale it from 0-1*
 
+[**Peer Effect (Granovettor's Model)**]: It's a model to explain why a small number of people can change the mind/perception of a large number of people. The psudo model:
+```
+- N number of people
+- Each has a threshold to change their mind:
+    - T_j for person j
+    - Join if T_j other people join
+```
+![image](https://user-images.githubusercontent.com/77024625/139595532-da299c32-b016-4ced-a9a2-a045ad958229.png)
+
+This shows if only 1 person has a threshold of 0, that person can change the mind of others with higher threshold. Person 1 with 0 threshold starts wearing purple hat, then other 4 can change their mind gradually. So collective actions more likely if:
+- lower threshold
+- more variation in threshold.
+
